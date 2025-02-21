@@ -1,0 +1,6 @@
+.DS_Store
+yolov8m.pt
+.env
+__pycache__
+.idea
+/blip2/__pycache__
