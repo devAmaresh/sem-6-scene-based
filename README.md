@@ -66,8 +66,8 @@ The project consists of two main flows:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/project-name.git
-   cd project-name
+   git clone https://github.com/devAmaresh/sem-6-scene-based.git
+   cd scene-based
    ```
 
 2. Install dependencies:
@@ -105,8 +105,12 @@ The project consists of two main flows:
 1. Add your image input file to the `data/images` folder.
 2. Run the pipeline:
    ```bash
-   python main.py --task "Pick up a cup" --image "data/images/sample.jpg"
+   python main.py 
    ```
+   e.g inputs:<br/>
+   --> task: "Pick up a cup"<br/>
+   --> image: "data/images/sample.jpg"
+
 3. View the best-matching object and its details in the console output.
 
 ---
@@ -132,6 +136,12 @@ The project consists of two main flows:
 - **Interactive UI**: Create a web or desktop app for user interaction.
 - **Domain-Specific Fine-Tuning**: Customize models for robotics or healthcare.
 
+---
+
+## **Developer** 👨‍💻
+
+- **Developed by Amaresh**
+- [Contact](https://github.com/devAmaresh)
 ---
 
 ## **License** 📜
